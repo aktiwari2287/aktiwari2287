@@ -18,3 +18,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktiwari2287&theme=radical" />
 Applications Worked
 https://covid-19-tracker-anand.web.app/
+https://netflix-clone-47be2.web.app/

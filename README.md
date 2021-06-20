@@ -21,6 +21,7 @@ Applications Worked
   <li>https://covid-19-tracker-anand.web.app/</li>
   <li>https://netflix-clone-47be2.web.app/</li>
   <li>https://linkedin-anand.web.app/</li>
+  <li>https://distracted-dubinsky-4856e8.netlify.app </li>
 </ul> 
 
 

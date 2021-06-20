@@ -22,6 +22,7 @@ Applications Worked
   <li>https://netflix-clone-47be2.web.app/</li>
   <li>https://linkedin-anand.web.app/</li>
   <li>https://distracted-dubinsky-4856e8.netlify.app </li>
+  <li>https://infallible-goldberg-d43667.netlify.app/</li>
 </ul> 
 
 
